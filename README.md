@@ -3,6 +3,7 @@
 - [karabiner](https://karabiner-elements.pqrs.org/)
 - [fish](https://fishshell.com/)
 - [omf](https://github.com/oh-my-fish/oh-my-fish)
+- [fisher](https://github.com/jorgebucaran/fisher)
 - [alacritty](https://github.com/alacritty/alacritty)
 - [mononoki nerd font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/Mononoki.zip)
 - tmux
