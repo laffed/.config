@@ -1,0 +1,30 @@
+{
+  "todo": {
+    "description": "adds tagged todo comment",
+    "prefix": [
+      "todo"
+    ],
+    "body": [
+      "// TODO: @laffed -- $1"
+    ]
+  },
+  "esdisl": {
+    "description": "eslint-disable-next-line",
+    "prefix": [
+      "esdisl"
+    ],
+    "body": [
+      "/* eslint-disable-next-line $1 -- $2 */"
+    ]
+  },
+  "esdis": {
+    "description": "eslint-disable/enable block",
+    "prefix": [
+      "esdis"
+    ],
+    "body": [
+      "/* eslint-disable $1 -- $2 */",
+      "/* eslint-disable $1 */"
+    ]
+  }
+}

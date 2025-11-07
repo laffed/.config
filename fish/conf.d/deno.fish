@@ -1,0 +1,1 @@
+source "/Users/roark.laffed/.deno/env.fish"

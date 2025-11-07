@@ -1,0 +1,13 @@
+{
+  "dev border": {
+    "description": "adds tmp ViewStyles border",
+    "prefix": [
+      "devborder"
+    ],
+    "body": [
+      "// TODO: @laffed -- dev rm",
+      "borderWidth: 1,",
+      "borderColor: $1,"
+    ]
+  }
+}
